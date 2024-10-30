@@ -1,0 +1,8 @@
+total 48
+-rw-r--r-- 1 nathan nathan   549 Oct 29 19:52 Makefile
+-rw-r--r-- 1 nathan nathan    33 Oct 29 19:49 README.md
+-rw------- 1 nathan nathan   278 Oct 30 00:35 input.txt
+-rw-r--r-- 1 nathan nathan  1787 Oct 30 01:41 main.c
+-rw-r--r-- 1 nathan nathan  9360 Oct 30 01:44 main.o
+-rw-r--r-- 1 nathan nathan     0 Oct 30 01:45 output.txt
+-rwxr-xr-x 1 nathan nathan 19768 Oct 30 01:44 redir
